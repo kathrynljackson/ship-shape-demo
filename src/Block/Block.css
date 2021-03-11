@@ -1,0 +1,32 @@
+.user-block {
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    text-align: start;
+    margin-top: .3em;
+}
+
+.right {
+    text-align: start;
+    margin-left: 1em;
+}
+
+.user-message {
+    font-size: 1.3em;
+}
+
+.user-pic {
+    border-radius: 50%;
+}
+
+.user-name {
+    text-transform: capitalize;
+}
+
+.user-date {
+    color:gray;
+    font-size: .85em;
+}
