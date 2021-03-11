@@ -9,6 +9,10 @@
     margin-top: .3em;
 }
 
+.user-pic {
+    border-radius: 50%;
+}
+
 .right {
     text-align: start;
     margin-left: 1em;
@@ -16,10 +20,6 @@
 
 .user-message {
     font-size: 1.3em;
-}
-
-.user-pic {
-    border-radius: 50%;
 }
 
 .user-name {

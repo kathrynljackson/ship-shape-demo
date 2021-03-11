@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './Block.css';
 
-
 class Block extends Component {
  constructor(props) {
      super(props);
@@ -48,11 +47,5 @@ class Block extends Component {
      )
  }
 }
-
-//attributes/pic
-//attributes/message
-//attributes/username
-//attributes/useragent
-//attributes/date
 
 export default Block;
